@@ -1,10 +1,11 @@
 [
   {
     "name": "Первый Канал HD",
-	"url": "https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8&drmreq="
+	"url": "https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8"
   },
    {
     "name": "Россия HD",
-	"url": "https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rossia_1_0_hd.m3u8&drmreq="
+	"url": "https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Rossia_1_0_hd.m3u8"
   }
 ]
+
