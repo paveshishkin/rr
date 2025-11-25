@@ -1,6 +1,6 @@
 [
   {
-    "name": "Первый Канал HD",
+    "name": "Первый канал HD",
 	"url": "https://cdngw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=1TV_hd.m3u8",
 	"epg": "146"
   },
@@ -10,5 +10,6 @@
 	"epg": "146"
   }
 ]
+
 
 
